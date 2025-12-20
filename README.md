@@ -5,6 +5,7 @@ This project presents an analytical dashboard that evaluates hospital employees�
 The dashboard was designed to support human resource planning, payroll optimization, and workforce policy decisions in healthcare institutions.
 
 
+
 🎯 Project Objectives
 The key objectives of this analysis are to:
 ✨ Analyze salary distribution across hospital departments
@@ -14,6 +15,7 @@ Examine the relationship between salary, age, gender, and marital status
 Assess how education level influences income
 ✨ Provide statistical insight using standard error and confidence level
 Deliver a clear, interactive dashboard for decision-makers
+
 
 🗂 Dataset Description
 ✨ The dataset contains hospital employee records with the following attributes:
@@ -33,6 +35,7 @@ Department (Cardiology, Maternity, Neurology)
 ✨Average Age: 36.86 years
 ✨Age Range: 18 – 60 years
 
+
 🛠 Tools & Technologies Used
 ✨Microsoft Excel
 ✨Data cleaning and preprocessing
@@ -45,6 +48,7 @@ Department (Cardiology, Maternity, Neurology)
 ✨Statistical Concepts
 ✨Standard Error
 ✨Confidence Level (95%)
+
 
 📊 Dashboard Components & Analysis
 
@@ -81,6 +85,7 @@ Medical-related education fields generate higher income
 Non-clinical education fields earn less
 📌 Insight: Specialized healthcare education strongly impacts earning potential.
 
+
 📈 Statistical Interpretation
 The standard error of 115.5 at 95% confidence level indicates that the mean monthly income is statistically reliable.
 This enhances confidence in using the dataset for policy and compensation decisions.
@@ -89,6 +94,7 @@ Salary distribution is uneven across departments and job roles
 Clinical staff drive most of the hospital’s wage bill
 Age, education, and marital status significantly influence income
 Gender income gap exists and may require policy review
+
 
 
 💡 Recommendations
