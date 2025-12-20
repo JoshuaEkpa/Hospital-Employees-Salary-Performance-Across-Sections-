@@ -8,6 +8,7 @@ The dashboard was designed to support human resource planning, payroll optimizat
 
 🎯 Project Objectives
 The key objectives of this analysis are to:
+
 ✨ Analyze salary distribution across hospital departments
 
 ✨ Evaluate income variations by job role
@@ -120,7 +121,9 @@ Non-clinical education fields earn less
 📈 Statistical Interpretation
 The standard error of 115.5 at 95% confidence level indicates that the mean monthly income is statistically reliable.
 This enhances confidence in using the dataset for policy and compensation decisions.
+
 🔍 Key Findings
+
 Salary distribution is uneven across departments and job roles
 Clinical staff drive most of the hospital’s wage bill
 Age, education, and marital status significantly influence income
@@ -129,6 +132,7 @@ Gender income gap exists and may require policy review
 
 
 💡 Recommendations
+
 👉Review compensation structure to address gender pay gaps
 
 👉Invest in training and education for lower-income roles
