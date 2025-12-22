@@ -76,6 +76,19 @@ ________________________________________________________________________________
 DASHBOARD PREVIEW 
 <img width="1223" height="559" alt="HOPITAL EMPLOYEES&#39; SALARY PERFORMANCE Screenshot 2025-12-13 095150" src="https://github.com/user-attachments/assets/73818fc6-3a95-420a-9474-5b1fa2382d04" /> 
 
+_______________________________________________________________________________________________________________________________
+
+ Secreenshot of Job Role Employees' Salary 
+
+<img width="622" height="409" alt="Screenshot 2025-12-21 135049" src="https://github.com/user-attachments/assets/749a505b-a009-42a6-ae92-f5bab8141117" />
+
+ ___________________________________________________________________________________________________________________________
+
+Screenshot of Department Employees' Salary 
+
+<img width="602" height="346" alt="Screenshot 2025-12-21 135137" src="https://github.com/user-attachments/assets/6b995415-842f-4303-840f-e55278c6783a" />
+
+_____________________________________________________________________________________________________________________________
 
 PIVOT DASHBOARD 
 <img width="945" height="505" alt="PIVOT TABLE Screenshot 2025-12-13 170057" src="https://github.com/user-attachments/assets/dba81ad3-efc1-4152-a533-69f65792143a" />
