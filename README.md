@@ -7,8 +7,10 @@ The project was designed to support human resource planning, payroll optimizatio
 
 ______________________________________________________________________________________________________________________________
 
-🎯 Project Objectives
-The key objectives of this analysis are to:
+🎯 Project Objectives 
+
+The key objectives of this analysis are to: 
+
 1. Analyze salary distribution across hospital departments
 2. Evaluate income variations by job role
 3. Examine the relationship between salary, age, gender, and marital status
@@ -78,13 +80,13 @@ DASHBOARD PREVIEW
 
 _______________________________________________________________________________________________________________________________
 
- Secreenshot of Job Role Employees' Salary 
+ Secreenshot of Employees' Job Role Salary 
 
 <img width="622" height="409" alt="Screenshot 2025-12-21 135049" src="https://github.com/user-attachments/assets/749a505b-a009-42a6-ae92-f5bab8141117" />
 
  ___________________________________________________________________________________________________________________________
 
-Screenshot of Department Employees' Salary 
+Screenshot of Employees' Department Salary 
 
 <img width="602" height="346" alt="Screenshot 2025-12-21 135137" src="https://github.com/user-attachments/assets/6b995415-842f-4303-840f-e55278c6783a" />
 
