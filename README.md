@@ -1,6 +1,7 @@
 # Hospital-Employees-Salary-Performance-Across-Sections-
 
 📌 Project Overview
+
 This project presents an analytical dashboard that evaluates hospital employees’ salary performance across multiple sections. The analysis focuses on understanding how income distribution varies by department, job role, gender, age group, marital status, and education level.
 
 The project was designed to support human resource planning, payroll optimization, and workforce policy decisions in healthcare institutions.
@@ -20,7 +21,8 @@ The key objectives of this analysis are to:
 
 ___________________________________________________________________________________________________________________________
 
-🔢 Key Matrics
+🔢 Key Matrics 
+
 1. Total Staff: 1,676
 2. Total Monthly Salary: ₦10,921,675
 3. Average Monthly Income: ₦6,516.51
@@ -30,6 +32,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 
 🛠 Tools & Technologies Used
+
 1. Microsoft Excel
    i. Data Cleaning & preprocessing
    ii.Pivot Tables & Charts
@@ -41,6 +44,7 @@ ________________________________________________________________________________
 
 
 🔍 Key Insights 
+
 1. Maternity and Cradiology departments account for the highest salary share
 2. Clinical roles (Doctors and Nurses) dominant payroll costs
 3. Peak earnings occur in mid-career age groups (32 -45 yeras)
@@ -57,7 +61,8 @@ This analysis empowers HR and management teams to make data-driven decisions on 
 
 ______________________________________________________________________________________________________________________ 
 
-💡 Recommendations
+💡 Recommendations 
+
 1. Review compensation structure to address gender pay gaps
 2. Invest in training and education for lower-income roles
 3. Use data-driven insights for salary budgeting and workforce planning
@@ -66,6 +71,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 🚀 How This Project Adds Value
+
 1. Demonstrates HR analytics and payroll analysis skills
 2. Showcases Excel dashboarding and statistical analysis
 3. Suitable for Healthcare Data Analyst, HR 
