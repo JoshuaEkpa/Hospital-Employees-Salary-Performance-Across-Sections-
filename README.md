@@ -46,7 +46,14 @@ ________________________________________________________________________________
 5. Higher educational specialization correlates with higherincome 
 
 ______________________________________________________________________________________________________________________
+ 
+📝 Conclusion
+ 
+The Hospital Employees’ Salary Performance Dashboard provides a clear view of payroll distribution, demographic influences, and departmental trends. Forecasting insights indicate a steady increase in salaries, particularly in high-demand clinical departments.
+This analysis empowers HR and management teams to make data-driven decisions on staffing, budgeting, and compensation, while highlighting areas for equity and efficiency improvements.
 
+
+______________________________________________________________________________________________________________________ 
 
 💡 Recommendations
 1. Review compensation structure to address gender pay gaps
