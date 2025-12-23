@@ -1,5 +1,21 @@
 # Hospital-Employees-Salary-Performance-Across-Sections-
 
+
+<img width="2048" height="1470" alt="image" src="https://github.com/user-attachments/assets/8d84b2fb-f7ea-47c0-b808-860a0a6f8579" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📌 Project Overview
 
 This project presents an analytical dashboard that evaluates hospital employees’ salary performance across multiple sections. The analysis focuses on understanding how income distribution varies by department, job role, gender, age group, marital status, and education level.
